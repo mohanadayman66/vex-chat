@@ -1,0 +1,8 @@
+{
+  "name": "VEX CHAT",
+  "short_name": "VEX",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ece9d8",
+  "theme_color": "#245edb"
+}

@@ -1,0 +1,1 @@
+// Paste Supabase Project URL and anon/public key. Never use service_role in browser code.\nwindow.VEX_CONFIG={SUPABASE_URL:"PASTE_PROJECT_URL",SUPABASE_ANON_KEY:"PASTE_ANON_PUBLIC_KEY"};
